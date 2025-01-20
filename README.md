@@ -13,5 +13,3 @@
         <br>
         <h2>Link to my profile</h2>
         <a href="https://github.com/BlueBl-xx">My Profile</a>
-	</body>
-</html>
