@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-
 <!--validator.w3.org-->
 <!--https://jigsaw.w3.org/css-validator/-->
-
-<!-- Name: -->
-<!-- Assignment: -->
-<!--Due Date: -->
 
 <html lang = "en">
  
