@@ -9,6 +9,6 @@
     </head>
 
     <body>
-        Use this file as a template file for whatever you need.
+        Welcome to my website
     </body>
 </html>
