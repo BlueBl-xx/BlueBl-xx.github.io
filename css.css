@@ -1,0 +1,26 @@
+table {
+    table-layout: fixed;
+    width: 1895px;
+    text-align: center;
+    margin: 0 0 3px;
+    font-family : "Roboto", cursive;
+}
+
+td,th {
+    border: 2px solid black;
+}
+
+thead {
+    background-color: black;
+    color: white;
+}
+
+#thead {
+    height: 65px;
+    font-size: 40px;
+}
+
+#tbody {
+    height: 1000px;
+}
+
