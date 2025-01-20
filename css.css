@@ -1,3 +1,21 @@
 html {
+	color: white;
     font-family: "Sarpanch", cursive;
+}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	background-color: white;
+	color: black;
+}
+
+footer {
+	background-color: white;
+	color: black;
+	font-size: 25px;
 }
