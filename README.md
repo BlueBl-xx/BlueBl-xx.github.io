@@ -4,12 +4,13 @@
 <html lang = "en">
 
    <head>
-        <meta charset="utf-8">
-        <title>BlueBl_xx's Website</title>
+         <meta charset="utf-8">
+         <title>BlueBl_xx's Website</title>
    </head>
 
    <body>
-        <h1>Welcome to my website<h1>
-        <br>
-        <h2>Profile Links</h2>
-        <a href="https://github.com/BlueBl-xx">My Profile</a>
+         <h1>Welcome to my website<h1>
+         <br>
+         <h2>Profile Links</h2>
+         <a href="https://github.com/BlueBl-xx">
+         <img border="0" alt="W3Schools" src="githubIMG.png" width="100" height="100"></a>
