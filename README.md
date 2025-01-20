@@ -4,11 +4,14 @@
 <html lang = "en">
  
     <head>
-        <meta charset="utf-8">
-        <title>BlueBl_xx's Website</title>
+   <meta charset="utf-8">
+   <title>BlueBl_xx's Website</title>
     </head>
 
     <body>
-        Welcome to my website
+        <h1>Welcome to my website<h1>
+        <br>
+        <h2>Link to my profile</h2>
+        <a href="url">https://github.com/BlueBl-xx</a>
     </body>
 </html>
