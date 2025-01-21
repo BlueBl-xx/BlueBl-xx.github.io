@@ -1,7 +1,6 @@
 html {
 	color: white;
-	font-family: "Sarpanch", cursive;
-	background-color: black;
+    font-family: "Sarpanch", cursive;
 }
 
 body {
@@ -13,10 +12,38 @@ h1 {
 	text-align: center;
 	background-color: white;
 	color: black;
+	width: 1895px;
 }
 
 footer {
 	background-color: white;
 	color: black;
 	font-size: 25px;
+	width: 1895px;
+}
+
+nav ul {
+	position: fixed;
+	text-align: center;
+	width: 1895px;
+	background-color: #Fff;
+	font-family: "Sarpanch", cursive; 
+	font-size: 1.2em; 
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 30px; 
+}
+
+nav ul li a {
+  color: #000;
+  text-decoration: none;  
+}
+nav ul li a:hover {
+  color: #ababab;
+}
+
+nav ul {
+	text-align: center;
 }
