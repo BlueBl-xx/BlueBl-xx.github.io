@@ -56,3 +56,7 @@ nav ul li a:hover {
 nav ul {
 	text-align: center;
 }
+
+img {
+	border: 0; 
+}
