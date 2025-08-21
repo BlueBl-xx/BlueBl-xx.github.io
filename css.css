@@ -16,7 +16,7 @@ h1 {
 
 header {
 	background-color: white;
-	height: 200px;
+	height: auto;
 }
 
 hr {
@@ -29,13 +29,13 @@ footer {
 	background-color: white;
 	color: black;
 	font-size: 25px;
-	width: 1912px;
+	width: auto;
 }
 
 nav ul {
 	position: fixed;
 	text-align: center;
-	width: 1873px;
+	width: auto;
 	font-family: "Sarpanch", cursive; 
 	font-size: 1.2em; 
 }
