@@ -16,7 +16,7 @@ h1 {
 
 header {
 	background-color: white;
-	height: 10%;
+	max-height: 20%;
 	position: sticky;
 }
 
