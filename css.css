@@ -32,8 +32,12 @@ footer {
 	width: auto;
 }
 
+nav {
+	
+}
+
 nav ul {
-	position: fixed;
+	position: sticky;
 	text-align: center;
 	width: auto;
 	font-family: "Sarpanch", cursive; 
