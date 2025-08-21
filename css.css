@@ -41,16 +41,17 @@ nav ul {
 }
 
 nav ul li {
-  display: inline-block;
-  margin: 30px; 
+	display: inline-block;
+	margin: 30px;
+	width: auto;
 }
 
 nav ul li a {
-  color: #000;
-  text-decoration: none;  
+	color: #000;
+	text-decoration: none;  
 }
 nav ul li a:hover {
-  color: #ababab;
+	color: #ababab;
 }
 
 nav ul {
