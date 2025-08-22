@@ -23,7 +23,6 @@ hr {
 	background-color: black;
 	height: 2px;
 	border: 0;
-	position: sticky;
 }
 
 footer {
@@ -34,7 +33,6 @@ footer {
 }
 
 nav ul {
-	position: sticky;
 	text-align: center;
 	width: auto;
 	font-size: 1.2em; 
@@ -49,7 +47,6 @@ nav ul li {
 nav ul li a {
 	color: #000;
 	text-decoration: none;
-	position: sticky;
 }
 
 nav ul li a:hover {
