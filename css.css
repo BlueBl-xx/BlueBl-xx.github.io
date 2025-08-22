@@ -43,13 +43,13 @@ nav ul li {
 	display: inline-block;
 	margin: 30px;
 	width: auto;
+	background-color: white;
+	max-height: 15%;
 }
 
 nav ul li a {
 	color: #000;
 	text-decoration: none;
-	background-color: white;
-	max-height: 15%;
 }
 
 nav ul li a:hover {
