@@ -37,14 +37,14 @@ nav ul {
 	text-align: center;
 	width: auto;
 	font-size: 1.2em; 
+	background-color: white;
+	max-height: 15%;
 }
 
 nav ul li {
 	display: inline-block;
 	margin: 30px;
 	width: auto;
-	background-color: white;
-	max-height: 15%;
 }
 
 nav ul li a {
