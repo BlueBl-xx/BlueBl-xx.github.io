@@ -20,11 +20,6 @@ div.TopBar {
   top: 0;
 }
 
-header {
-	background-color: white;
-	max-height: 15%;
-}
-
 hr {
 	background-color: black;
 	height: 2px;
@@ -53,6 +48,8 @@ nav ul li {
 nav ul li a {
 	color: #000;
 	text-decoration: none;
+	background-color: white;
+	max-height: 15%;
 }
 
 nav ul li a:hover {
