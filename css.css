@@ -59,5 +59,6 @@ nav ul {
 }
 
 img {
-	border: 0; 
+	border: 0;
+	align-items: center;
 }
