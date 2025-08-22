@@ -35,8 +35,7 @@ footer {
 
 ul {
 	background-color: white;
-	max-height: 10%;
-	height: 10%;
+	height: auto;
 }
 
 nav ul {
