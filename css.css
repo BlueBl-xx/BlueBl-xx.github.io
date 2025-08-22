@@ -23,6 +23,7 @@ hr {
 	background-color: black;
 	height: 2px;
 	border: 0;
+	position: sticky;
 }
 
 footer {
@@ -47,7 +48,8 @@ nav ul li {
 
 nav ul li a {
 	color: #000;
-	text-decoration: none;  
+	text-decoration: none;
+	position: sticky;
 }
 
 nav ul li a:hover {
