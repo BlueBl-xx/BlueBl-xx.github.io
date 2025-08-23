@@ -13,12 +13,16 @@ html, body {
 }
 
 h1 {
-	font-size: 50px;
+	font-size: auto;
 	text-align: center;
 	color: black;
 	width: auto;
 	background-color: white;
 	margin: 0;
+}
+
+a {
+	font-size: auto;
 }
 
 .TopBar {
