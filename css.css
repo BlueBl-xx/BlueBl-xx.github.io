@@ -10,8 +10,6 @@ body {
 html, body {
   	margin: 0;
   	padding: 0;
-  	height: 100%;
-	padding-top: 0;
 }
 
 h1 {
@@ -55,6 +53,7 @@ footer {
 ul {
 	background-color: white;
 	height: auto;
+	margin: 0;
 }
 
 nav ul {
