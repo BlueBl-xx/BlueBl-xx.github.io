@@ -6,8 +6,7 @@ html {
 body {
 	background-color: black;
 	margin: 0;
-	position: relative;
-	top: -22px; 
+	padding: 0;
 }
 
 h1 {
