@@ -19,6 +19,7 @@ h1 {
 	color: black;
 	width: auto;
 	background-color: white;
+	top-margin: 0;
 }
 
 .TopBar {
