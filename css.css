@@ -28,6 +28,10 @@ h1 {
   text-decoration: none;
 }
 
+.Profile-Links {
+	margin: 8px;
+}
+
 hr {
 	background-color: black;
 	height: 2px;
