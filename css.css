@@ -21,7 +21,7 @@ h1 {
 
 .TopBar {
   position: sticky;
-  top: 0;
+  top: -22;
 }
 
 .TopBar a {
