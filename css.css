@@ -3,6 +3,11 @@ html {
     font-family: "Sarpanch", cursive;
 }
 
+body {
+	background-color: black;
+	overflow: auto;
+}
+
 html, body {
   margin: 0;
   padding: 0;
