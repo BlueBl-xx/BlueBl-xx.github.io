@@ -20,14 +20,15 @@ h1 {
 }
 
 .TopBar {
-  position: sticky;
-  top: 0;
+  	position: sticky;
+  	top: 0;
 }
 
 .TopBar a {
-  float: center;
-  text-align: center;
-  text-decoration: none;
+  	float: center;
+  	text-align: center;
+	padding: 14px 16px;
+  	text-decoration: none;
 }
 
 .Profile-Links {
