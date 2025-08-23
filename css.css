@@ -1,13 +1,13 @@
 html {
 	color: white;
     font-family: "Sarpanch", cursive;
-	margin: 0;
-	position: relative;
-	top: -22px; 
 }
 
 body {
 	background-color: black;
+	margin: 0;
+	position: relative;
+	top: -22px; 
 }
 
 h1 {
