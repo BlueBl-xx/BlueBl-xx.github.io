@@ -59,6 +59,7 @@ footer {
 	color: black;
 	font-size: 25px;
 	width: auto;
+	position: fixed;
 }
 
 ul {
