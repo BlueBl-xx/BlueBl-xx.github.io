@@ -60,6 +60,7 @@ footer {
 	font-size: 25px;
 	width: auto;
 	position: fixed;
+	bottom: 0;
 }
 
 ul {
