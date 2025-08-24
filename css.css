@@ -13,7 +13,7 @@ html, body {
 }
 
 h1 {
-	font-size: 7.8vh;
+	font-size: 5.3vh;
 	text-align: center;
 	color: black;
 	width: auto;
@@ -30,7 +30,7 @@ h1 {
   	text-align: center;
 	padding: 14px 16px;
   	text-decoration: none;
-	font-size: 3.2vh;
+	font-size: 2.2vh;
 }
 
 .Profile-Links {
