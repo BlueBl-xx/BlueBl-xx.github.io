@@ -91,4 +91,5 @@ nav ul li a:hover {
 
 img {
 	border: 0;
+	transform: translate(0px, -300px);
 }
