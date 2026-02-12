@@ -25,6 +25,7 @@ h1 {
 .TopBar {
   	position: sticky;
   	top: 0;
+	margin-right: 40px;
 }
 
 .TopBar a {
