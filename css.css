@@ -25,7 +25,6 @@ h1 {
 .TopBar {
   	position: sticky;
   	top: 0;
-	margin-right: 40px;
 }
 
 .TopBar a {
@@ -66,8 +65,6 @@ footer {
 ul {
 	background-color: white;
 	height: 80px;
-	margin-right: -50px;
-  	margin-left: -50px;
   	margin-bottom: 0;
   	margin-top: 0;
 }
