@@ -20,6 +20,8 @@ h1 {
 	width: auto;
 	background-color: white;
 	margin: 0;
+	position: absolute;
+	z-index: 1;
 }
 
 .TopBar {
