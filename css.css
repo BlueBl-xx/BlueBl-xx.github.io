@@ -30,6 +30,10 @@ h1 {
   	text-wrap: nowrap;
 }
 
+h2 {
+	text-align: center;
+}
+
 .TopBar {
   	position: sticky;
   	top: 0;
