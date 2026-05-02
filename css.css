@@ -57,13 +57,14 @@ h2 {
 }
 
 .Profile-Links {
-	margin: 20px;
 	position: absolute;
 	z-index: 1;
-	top: 25%;
+	top: 17%;
 	background: rgba(0, 0, 0, 0.5);
   	left: 50%;
 	transform: translate(-50%);
+	width: 98%;
+  	height: 81%;
 }
 
 hr {
