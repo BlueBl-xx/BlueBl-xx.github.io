@@ -1,6 +1,7 @@
 html {
 	color: white;
     font-family: "Sarpanch", cursive;
+	overflow-x:hidden
 }
 
 body {
