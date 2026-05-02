@@ -46,6 +46,8 @@ h1 {
 
 .Profile-Links {
 	margin: 20px;
+	position: absolute;
+	z-index: 1;
 }
 
 hr {
