@@ -79,6 +79,8 @@ footer {
 	font-size: 25px;
 	width: auto;
 	height: 100px;
+	position: absolute;
+	bottom: 0%;
 }
 
 ul {
